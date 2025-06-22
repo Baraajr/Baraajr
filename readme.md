@@ -15,7 +15,7 @@
 **Cloud:** AWS (EC2, S3), Mailtrap
 
 ## 📦 Featured Projects
-### 🔧 [Car Parts App](https://github.com/Baraajr/car-parts-app)
+### 🔧 [Car Parts App](https://github.com/Baraajr/Car-Parts-App)
 E-commerce app for car parts with file uploads (S3), Stripe, Redis cache, and CI/CD.
 
 ### 📰 [Microservices Blog](https://github.com/Baraajr/micreoservices-blogs)
