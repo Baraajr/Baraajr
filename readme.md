@@ -7,6 +7,12 @@
 - 🔒 Experienced in building secure auth systems with Passport.js & JWT.
 - ☁️ Skilled in deploying apps using AWS (EC2, S3), Docker, and Nginx reverse proxy.
 
+🌐 Socials:
+Facebook LinkedIn email
+
+💻 Tech Stack:
+CSS3 C# JavaScript NodeJS NestJS JWT Express.js Jest NPM React Nodemon Redux Socket.io Vite Nginx MongoDB Postgres Redis GitHub Jasmine Puppeteer
+
 ## ⚙️ Tech Stack
 **Backend:** Node.js, Express, TypeScript  
 **Databases:** MongoDB, PostgreSQL, Redis  
