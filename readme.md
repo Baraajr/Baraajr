@@ -7,10 +7,6 @@
 - 🔒 Experienced in building secure auth systems with Passport.js & JWT.
 - ☁️ Skilled in deploying apps using AWS (EC2, S3), Docker, and Nginx reverse proxy.
 
-# 💫 About Me:
-"Hi, I’m Ahmed Baraa, a full-stack developer. I specialize in building web applications using React for frontend and Node.js, Express, or NestJS for backend, with databases like MongoDB and PostgreSQL. I focus on writing clean, maintainable code while optimizing performance and scalability. I also have experience with Docker, caching with Redis, and load balancing to ensure high availability. I enjoy tackling complex problems and turning ideas into functional, user-friendly applications."
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ABaraa11/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmedbaraa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedbaraa009@gmail.com) 
 
@@ -26,13 +22,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## ⚙️ Tech Stack
-**Backend:** Node.js, Express, TypeScript  
-**Databases:** MongoDB, PostgreSQL, Redis  
-**DevOps:** Docker, Nginx, GitHub Actions, Travis CI  
-**Testing:** Jest, Puppeteer, mongo-memory-server  
-**Cloud:** AWS (EC2, S3), Mailtrap
-
 ## 📦 Featured Projects
 ### 🔧 [Car Parts App](https://github.com/Baraajr/Node-Car-Parts)
 E-commerce app for car parts with file uploads (S3), Stripe, Redis cache, and CI/CD.
@@ -40,6 +29,3 @@ E-commerce app for car parts with file uploads (S3), Stripe, Redis cache, and CI
 ### 📰 [Microservices Blog](https://github.com/Baraajr/micreoservices-blogs)
 Service-based blog platform using Docker, Redis, Axios-based service-to-service calls.
 
-## 📫 Let's Connect
-📧 ahmedbaraa009@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/ahmed-baraa-b94b7b284) | 🧠 [GitHub](https://github.com/Baraajr)
