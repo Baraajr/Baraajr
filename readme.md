@@ -21,6 +21,6 @@ I'm Ahmed Baraa, a Full-Stack MERN Developer from Egypt with a passion for build
 
 
 ## 📦 Featured Projects
-### 🔧 [Car Parts App](https://github.com/Baraajr/Node-Car-Parts)
+### 🔧 [Car Parts App](https://github.com/Baraajr/Car-Parts)
 E-commerce app for car parts with Microservices architecture, file uploads (S3), Stripe, Redis cache, and CI/CD.
 
